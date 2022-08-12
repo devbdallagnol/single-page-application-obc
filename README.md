@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Project developed by Leonardo Scorza from OneBitCode!
+You can find this project in the repository: https://github.com/leonardoscorza/react-spa
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
