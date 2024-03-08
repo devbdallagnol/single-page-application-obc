@@ -1,72 +1,55 @@
-# Getting Started with Create React App
+![Dev Portfolio (SPA)](src/images/dev-portifolio.png)
 
-Project developed by Leonardo Scorza from OneBitCode!
-You can find this project in the repository: https://github.com/leonardoscorza/react-spa
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<hr>
 
-## Available Scripts
+# Dev Portfolio (SPA)
 
-In the project directory, you can run:
+Bem-vindo ao Dev Portfolio (SPA)! 🚀 Este é um repositório dedicado ao projeto Dev Portfolio (SPA). Projeto realizado como exercício de montagem de currículo utilizando React para Single Page Application.
 
-### `npm start`
+## Descrição
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Dev Portfolio (SPA) é uma aplicação web que recria a interface de um portfolio, contendo informações relevantes para um desenvolvedor. Este repositório contém o código-fonte e os arquivos essenciais para executar a aplicação em sua máquina local.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Funcionalidades Principais
 
-### `npm test`
+- 🌐 Recriação de Portfolio
+- 📚 Recursos Interativos
+- 💻 Ambiente de Desenvolvimento Integrado (IDE)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instruções de Instalação
 
-### `npm run build`
+Siga estas etapas para configurar o Dev Portfolio (SPA) em sua máquina:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Clone o Repositório:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   ```bash
+   git clone https://github.com/devbdallagnol/single-page-application-obc
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Instale os pacotes:**
 
-### `npm run eject`
+   ```bash
+   npm install
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. **Rode a aplicação:**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Contribuição
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contribuições são bem-vindas! Se você deseja melhorar o projeto, siga estas diretrizes:
 
-## Learn More
+1. Faça um Fork do projeto
+2. Crie uma nova branch `git checkout -b feature/nova-feature`
+3. Faça commit das suas alterações `git commit -am 'Adiciona nova feature'`
+4. Faça push para a branch `git push origin feature/nova-feature`
+5. Abra um Pull Request
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Contato
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Se precisar de ajuda ou tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desenvolvedor: @devbdallagnol
